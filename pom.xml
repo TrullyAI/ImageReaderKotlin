@@ -5,14 +5,14 @@
 
     <groupId>ai.trully.sdk</groupId>
     <artifactId>DocumentReaderKotlin</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <packaging>aar</packaging>
 
     <dependencies>
         <dependency>
             <groupId>androidx.core</groupId>
             <artifactId>core-ktx</artifactId>
-            <version>1.13.1</version>
+            <version>1.13.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
@@ -30,7 +30,7 @@
         <dependency>
             <groupId>androidx.activity</groupId>
             <artifactId>activity-ktx</artifactId>
-            <version>1.9.1</version>
+            <version>1.9.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
